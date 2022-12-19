@@ -1,6 +1,6 @@
 # Medusa Clean Staging
 
-This is a python script for Library staff at the University of Illinois at Urbana-Champaign to search for and optionally remove files and directories intended to be excluded from the Medusa Colletion Registry.
+This is a python script for Library staff at the University of Illinois at Urbana-Champaign to search for and optionally remove files and directories intended to be excluded from the Medusa Collection Registry.
 
 ## Python 3
 
